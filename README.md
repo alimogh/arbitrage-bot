@@ -1,4 +1,4 @@
-# arbitrage-bot
+# DoveWallet arbitrage-bot
 
 ### 1. Set config
 ```
